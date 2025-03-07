@@ -1,0 +1,15 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.sider {
+  background-color: #000000
+}
+
+.logo-container {
+  padding: 16px; /* 调整上、下外边距 */
+  text-align: center; /* Logo 居中 */
+}

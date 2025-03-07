@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/robotClient.dir/main.cpp.o CMakeFiles/robotClient.dir/robotclient.cpp.o CMakeFiles/robotClient.dir/robotservice.cpp.o  -o ../../bin/robotClient  -lpthread -lssl -lcrypto 
